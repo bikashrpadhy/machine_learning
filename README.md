@@ -1,4 +1,3 @@
 # machine_learning
-Project3
-My first ever git commit
+Project3: Hands-on Predicitve Analysis course
 
